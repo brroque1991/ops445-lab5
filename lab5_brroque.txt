@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: bryanrossroque
+    Linux system name: Bryans-MacBook-Air-2.local
+    Python executable: /Users/bryanrossroque/ops445/.venv/bin/python3
+    Python version: 3126
+    OS Platform: darwin
+    Working Directory: /Users/bryanrossroque/ops445/lab5
+    Start at: Thu Mar  6 01:21:10 2025
+=================================================================
